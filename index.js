@@ -17,7 +17,4 @@ const fareTripler = (num) => num * 3;
 function selectDifferentDrivers (drivers, returnLastTwoDrivers)
 {if (drivers, returnLastTwoDrivers) {
     return returnFirstTwoDrivers(drivers), returnLastTwoDrivers(drivers);}
-    //else if (returnLastTwoDrivers ) {
-        //return returnLastTwoDrivers(drivers);
-    //}
 }
